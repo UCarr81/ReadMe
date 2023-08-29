@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hey there! 👋 I'm [Your Name], a passionate 19-year-old on a journey to explore and create in the realm of web development. Currently, I'm pursuing my studies in FrontEnd Web Development at the University of Oregon. My curiosity knows no bounds, and I'm excited to expand my horizons to the world of backend development in the near future.
+Hey there! 👋 I'm Uriel Carrillo, a passionate 19-year-old on a journey to explore and create in the realm of web development. Currently, I'm pursuing my studies in FrontEnd Web Development at the University of Oregon. My curiosity knows no bounds, and I'm excited to expand my horizons to the world of backend development in the near future.
 
 **A Bit About Me:**
 
@@ -12,4 +12,4 @@ Hey there! 👋 I'm [Your Name], a passionate 19-year-old on a journey to explor
 
 I'm stoked to connect with fellow developers, collaborate on exciting projects, and contribute to the ever-evolving landscape of web development. Let's code, learn, and innovate together!
 
-Feel free to reach out to me via [email@example.com](mailto:email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername) to discuss all things web development and beyond. Cheers to coding adventures! 🌟
+Feel free to reach out to me via CarrilloUriel81@gmail.com to discuss all things web development and beyond. Cheers to coding adventures! 🌟
